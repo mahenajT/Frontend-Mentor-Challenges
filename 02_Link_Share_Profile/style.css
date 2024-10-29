@@ -26,12 +26,14 @@
   color: var(--White);
   min-width: 23rem;
   padding: 1rem 2rem;
+  border-radius: 1rem;
 }
 img {
   width: 80px;
   height: 80px;
   border-radius: 50%;
   object-fit: cover;
+  margin-top: 1rem;
 }
 h2 {
   margin: 0.5rem;
