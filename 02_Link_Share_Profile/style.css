@@ -70,7 +70,7 @@ a:is(:active, :hover) {
   color: var(--Grey-900);
 }
 
-@media (min-width: 344px) {
+@media (max-width: 344px) {
   .content {
     min-width: 20rem;
     padding: 0.5rem 1rem;
